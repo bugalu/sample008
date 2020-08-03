@@ -1,0 +1,21 @@
+body {
+  background: #ddd;
+}
+.container {
+  margin: 0 auto;
+  width: 960px;
+  text-align: center;
+}
+canvas {
+  background: #fff;
+}
+.shape_section {
+  display: inline-block;
+  margin: 16px;
+}
+.section__heading {
+  font-size: 1.25rem;
+}
+.shape_section p {
+  height: 2.5em;
+}
