@@ -298,10 +298,6 @@
 
     //設定復元
     ctx5.restore();
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/master
     ctx5.font = 'bold 1.5em sans-serif';
     ctx5.strokeStyle = "rgba(0,128,128,0.5)";
     ctx5.lineWidth = 2;
@@ -311,10 +307,6 @@
   }
   draw();
 
-<<<<<<< HEAD
-  //draw2
-=======
->>>>>>> refs/remotes/origin/master
   //アニメーション
   let t = 0;
 
